@@ -1,0 +1,7 @@
+C:\Users\osama\source\repos\Poblem Solving\Poblem Solving\obj\Debug\Poblem Solving.csproj.AssemblyReference.cache
+C:\Users\osama\source\repos\Poblem Solving\Poblem Solving\obj\Debug\Poblem Solving.csproj.CoreCompileInputs.cache
+C:\Users\osama\source\repos\Poblem Solving\Poblem Solving\bin\Debug\Poblem Solving.exe.config
+C:\Users\osama\source\repos\Poblem Solving\Poblem Solving\bin\Debug\Poblem Solving.exe
+C:\Users\osama\source\repos\Poblem Solving\Poblem Solving\bin\Debug\Poblem Solving.pdb
+C:\Users\osama\source\repos\Poblem Solving\Poblem Solving\obj\Debug\Poblem Solving.exe
+C:\Users\osama\source\repos\Poblem Solving\Poblem Solving\obj\Debug\Poblem Solving.pdb
